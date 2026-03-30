@@ -1,0 +1,17 @@
+ai-ugc-ad-generator/
+│── README.md
+│── prompts/
+│     ├── hook_generator.txt
+│     ├── ugc_script.txt
+│     ├── platform_adaptation.txt
+│
+│── outputs/
+│     ├── sample_output.md
+│
+│── docs/
+│     ├── prompt_logic.md
+│
+│── src/
+│     ├── generator.py
+│
+│── requirements.txt
