@@ -1,0 +1,16 @@
+Generate 10 high-converting hooks for the product below.
+
+Product: {product_name}
+Audience: {target_audience}
+
+Guidelines:
+
+* Keep it short (under 10 words)
+* Make it curiosity-driven
+* Include pain points or bold claims
+* Avoid generic phrases
+
+Output format:
+1.
+2.
+3.
