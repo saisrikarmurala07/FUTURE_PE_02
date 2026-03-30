@@ -1,0 +1,21 @@
+Create a UGC-style ad script.
+
+Product: {product_name}
+Audience: {target_audience}
+Platform: {platform}
+
+Structure:
+
+1. Hook (first 3 seconds)
+2. Problem
+3. Solution (product)
+4. Benefits
+5. CTA
+
+Tone:
+
+* Natural
+* Conversational
+* Authentic (like a real user)
+
+Keep under 30 seconds.
